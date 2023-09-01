@@ -1,0 +1,25 @@
+.drinkForm{
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+
+.orderInputSec{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-bottom: 15px;
+
+}
+
+.orderInputSec label{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+
+}

@@ -1,0 +1,28 @@
+.orderSection{
+
+    border: solid;
+    border-color: whitesmoke;
+    margin: 25px;
+    width:400px;
+
+
+
+}
+
+.orderSection div{
+
+ margin-top: 50px;
+ margin-bottom: 50px;
+
+
+
+}
+
+.drinkDesc{
+
+   font-size: 15px;
+   
+   
+}
+
+

@@ -1,0 +1,25 @@
+.displayArea{
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+.homepageButtons{
+
+
+    width: 300px;
+    height: 300px;
+
+    font-size: 50px;
+
+}
+
+.homepageButtonSections{
+
+    padding: 20px;
+
+
+
+}

@@ -1,0 +1,37 @@
+.CreateDrinkForm{
+
+    display: flex;
+    align-content: center;
+    margin-left: 60px;
+    
+
+
+}
+
+
+.drinkInputSections{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-bottom: 15px;
+
+
+}
+
+.drinkInputSections label{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+
+
+
+}
+
+
+.createDrinkPage{
+
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+
+}

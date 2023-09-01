@@ -1,0 +1,67 @@
+.drinkSections{
+
+    display: flex;
+    flex-direction: column;
+    border: solid;
+     border-color: whitesmoke;
+    width: 500px;
+    margin: 25px;
+
+
+}
+
+.drinkSections div{
+
+   margin-left: 15px;
+
+
+}
+
+.drinkSections p{
+
+    margin-bottom: 50px;
+    margin-left: 15px;
+    
+ 
+ 
+ }
+
+ .drinkSections button{
+
+    height: 25px;
+    margin-top: 50px;
+    margin-left: 10px;
+ 
+ 
+ }
+
+.topSection{
+
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+
+.midSection{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+
+
+}
+
+.bottomSection{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    font-size: 15px;
+
+
+}
+
+    
+   
